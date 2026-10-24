@@ -4,15 +4,6 @@
 
 I use data science to find patterns in complex data, build and evaluate models, and communicate what results do—and do not—support. My interests include applied machine learning, time-series analysis, sustainability, and agriculture.
 
-## Education
-
-**Eastern University** — Master of Science in Data Science  
-*August 2026*
-
-**Arizona State University** — Bachelor of Science in Applied Computing  
-*May 2023*  
-Certificate in Data Science · Minor in Sustainability
-
 ## Featured projects
 
 - **[Phoenix Crime Hotspot Forecasting](https://github.com/SustainableAlgorithm/.github.io/blob/main/phoenix-crime-hotspot-forecasting.md)** — time-series and machine-learning approaches to monthly crime-count forecasting, with attention to validation, reporting bias, and responsible use. Results are preliminary where noted.
@@ -37,3 +28,12 @@ Python · pandas · NumPy · scikit-learn · SQL · PostgreSQL · Matplotlib · 
 Explore the **[full project portfolio](https://github.com/SustainableAlgorithm/.github.io/blob/main/README.md)** for project-specific methods, status, and validation notes.
 
 *Some course-related implementations remain private while reviewed. Public summaries distinguish independently written examples from work that is still being validated.*
+
+## Education
+
+**Eastern University** — Master of Science in Data Science  
+*August 2026*
+
+**Arizona State University** — Bachelor of Science in Applied Computing  
+*May 2023*  
+Certificate in Data Science · Minor in Sustainability
