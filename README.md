@@ -1,4 +1,4 @@
-# Hi, I'm Katlin Kagan 👋
+# Hi, I'm Kathleen Kagan 👋
 
 **Data Science · Applied Machine Learning · Responsible Analytics**
 
