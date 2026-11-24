@@ -1,6 +1,6 @@
 # Hi, I'm Kathleen Kagan 👋
 
-**Data Science · Applied Machine Learning · Responsible Analytics**
+**Data Scientist | MS Data Science | Software Development | Machine Learning & Predictive Analytics | AI Evaluation | Python, R, SQL, SAS & Java**
 
 I use data science to find patterns in complex data, build and evaluate models, and communicate what results do—and do not—support. My interests include applied machine learning, time-series analysis, sustainability, and agriculture.
 
@@ -8,14 +8,30 @@ I use data science to find patterns in complex data, build and evaluate models, 
 
 - [Résumé, capstone project overview, and complete project code and results](https://github.com/SustainableAlgorithm/SustainableAlgorithm/tree/main) — available in the files at the top of this repository.
 
-## Professional AI Experience
+## Professional & Applied Research Experience
 
-**AI Fellow | Handshake AI | November 2026 – Present**
+### AI Fellow (Contractor) | Handshake AI
+*November 2026 – Present*
 
 - Evaluate and classify visual content to support AI model development and quality assurance.
-- Apply human judgment to distinguish AI-generated imagery from authentic content.
-- Identify visual inconsistencies and assess AI outputs against established evaluation criteria.
+- Identify AI-generated imagery, assess visual inconsistencies, and evaluate model outputs.
 - Contribute to human-in-the-loop AI training and evaluation workflows.
+
+### Graduate Data Science Researcher | Eastern University
+*July 2026 – August 2026 | Master's Capstone*
+
+- Developed an end-to-end predictive modeling pipeline encompassing 104,700 monthly observations across 1,745 Phoenix police grids.
+- Developed and evaluated Random Forest regression and SARIMAX forecasting models.
+- Achieved up to 63.33% monthly Top-5 hotspot overlap in hyperparameter experiments using engineered temporal features; candidate configurations were compared on 2024 data.
+- Developed an interactive Streamlit application to communicate analytical findings and model performance.
+
+### Software Development Intern | Arizona State University
+*August 2022 – May 2023*
+
+- Developed and enhanced educational database applications, including QueryDB and DesignDB.
+- Utilized Java, JavaFX, FXML, XML, and SQL to support database education for non-computing majors.
+- Collaborated with faculty to align application functionality with curriculum objectives.
+- Improved application usability and database interaction.
 
 ## Featured projects
 
