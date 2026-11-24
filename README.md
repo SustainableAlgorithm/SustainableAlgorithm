@@ -4,6 +4,10 @@
 
 I use data science to find patterns in complex data, build and evaluate models, and communicate what results do—and do not—support. My interests include applied machine learning, time-series analysis, sustainability, and agriculture.
 
+## Professional documents
+
+- [Résumé, capstone project overview, and complete project code and results](https://github.com/SustainableAlgorithm/SustainableAlgorithm/tree/main) — available in the files at the top of this repository.
+
 ## Professional AI Experience
 
 **AI Fellow | Handshake AI | November 2026 – Present**
@@ -47,7 +51,7 @@ Python · pandas · NumPy · scikit-learn · SQL · PostgreSQL · SAS · Matplot
 
 Explore the **[full project portfolio](https://github.com/SustainableAlgorithm/.github.io/blob/main/README.md)** for project-specific methods, status, and validation notes.
 
-*Some course-related implementations remain private while reviewed. Public summaries distinguish independently written examples from work that is still being validated.*
+*Project summaries distinguish independently written examples from work that is still being validated.*
 
 ## Education
 
