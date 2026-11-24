@@ -6,6 +6,8 @@ I use data science to find patterns in complex data, build and evaluate models, 
 
 ## Featured projects
 
+- **[ACO 499: Software Development Internship](https://github.com/SustainableAlgorithm/.github.io/tree/main/aco499-software-development-internship)** — two-semester Java/JavaFX, FXML, and XML customization work on educational database applications, including DesignDB and IntroDB.
+
 - **[Phoenix Crime Hotspot Forecasting](https://github.com/SustainableAlgorithm/.github.io/blob/main/phoenix-crime-hotspot-forecasting.md)** — time-series and machine-learning approaches to monthly crime-count forecasting, with attention to validation, reporting bias, and responsible use. Results are preliminary where noted.
 - **[Undergraduate Crime Statistics](https://github.com/SustainableAlgorithm/.github.io/blob/main/undergraduate-crime-statistics.md)** — an early exploratory analysis that led to later crime-data forecasting work.
 - **[DTSC 670: Foundations of Machine Learning](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc670-foundations-of-machine-learning.md)** — regression, classification, regularization, and SVM examples.
