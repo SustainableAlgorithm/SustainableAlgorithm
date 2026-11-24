@@ -10,6 +10,7 @@ I use data science to find patterns in complex data, build and evaluate models, 
 - **[Undergraduate Crime Statistics](https://github.com/SustainableAlgorithm/.github.io/blob/main/undergraduate-crime-statistics.md)** — an early exploratory analysis that led to later crime-data forecasting work.
 - **[DTSC 670: Foundations of Machine Learning](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc670-foundations-of-machine-learning.md)** — regression, classification, regularization, and SVM examples.
 - **[DTSC 660: SQL and Database Management](https://github.com/SustainableAlgorithm/.github.io/blob/main/dtsc660-sql-database-management.md)** — relational design, SQL querying, data cleaning, and Python/pandas integration.
+- **[SAS Programming Foundations](https://github.com/SustainableAlgorithm/sas-programming-foundations)** — undergraduate SAS examples covering raw-data ingestion, delimited files, variable attributes, date informats/formats, and dataset inspection.
 - **[Reproducible Monthly Trend Analysis](https://github.com/SustainableAlgorithm/.github.io/tree/main/public-code-examples/monthly-crime-trends)** — a small public Python example with synthetic data and automated tests.
 
 ## How I work
@@ -21,7 +22,7 @@ I use data science to find patterns in complex data, build and evaluate models, 
 
 ## Tools
 
-Python · pandas · NumPy · scikit-learn · SQL · PostgreSQL · Matplotlib · statsmodels · pytest
+Python · pandas · NumPy · scikit-learn · SQL · PostgreSQL · SAS · Matplotlib · statsmodels · pytest
 
 ## Portfolio
 
