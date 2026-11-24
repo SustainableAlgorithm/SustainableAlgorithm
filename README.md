@@ -4,6 +4,15 @@
 
 I use data science to find patterns in complex data, build and evaluate models, and communicate what results do—and do not—support. My interests include applied machine learning, time-series analysis, sustainability, and agriculture.
 
+## Professional AI Experience
+
+**AI Fellow | Handshake AI | November 2026 – Present**
+
+- Evaluate and classify visual content to support AI model development and quality assurance.
+- Apply human judgment to distinguish AI-generated imagery from authentic content.
+- Identify visual inconsistencies and assess AI outputs against established evaluation criteria.
+- Contribute to human-in-the-loop AI training and evaluation workflows.
+
 ## Featured projects
 
 - **[ACO 499: Software Development Internship](https://github.com/SustainableAlgorithm/.github.io/tree/main/aco499-software-development-internship)** — two-semester Java/JavaFX, FXML, and XML customization work on educational database applications, including DesignDB and IntroDB.
