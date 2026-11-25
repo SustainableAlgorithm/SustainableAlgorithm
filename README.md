@@ -28,10 +28,10 @@ I use data science to find patterns in complex data, build and evaluate models, 
 ### Software Development Intern | Arizona State University
 *August 2022 – May 2023*
 
-- Developed and enhanced educational database applications, including QueryDB and DesignDB.
-- Utilized Java, JavaFX, FXML, XML, and SQL to support database education for non-computing majors.
-- Collaborated with faculty to align application functionality with curriculum objectives.
-- Improved application usability and database interaction.
+- Developed and customized educational database applications, including QueryDB and DesignDB.
+- Applied Java, JavaFX, FXML, XML, and SQL to support relational database design, querying, and interactive database education.
+- Navigated existing application architecture, implemented interface customizations, and performed iterative testing and debugging.
+- Collaborated with faculty on the NSF-funded *Databases for Many Majors* project to make database education accessible across academic disciplines.
 
 ## Featured projects
 
